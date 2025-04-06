@@ -1,6 +1,6 @@
 
+## Shopping_Behaviour_Analysis_by_SQL
 
-``` sql
     CREATE DATABASE shopping_behavior;
 USE shopping_behavior;
 
@@ -25,7 +25,7 @@ CREATE TABLE shopping_behavior_updated (
     frequency_of_purchases VARCHAR(20)
 );
 
-```
+
 
 select * from shopping_behavior_updated limit 5;
 
