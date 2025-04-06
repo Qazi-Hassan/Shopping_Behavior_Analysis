@@ -24,6 +24,7 @@ CREATE TABLE shopping_behavior_updated (
     payment_method VARCHAR(20),
     frequency_of_purchases VARCHAR(20)
 );
+
 ```
 
 select * from shopping_behavior_updated limit 5;
