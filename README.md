@@ -2,6 +2,9 @@
 
 # 🛍️ Shopping Behavior Analysis (SQL Project)
 
+![Shopping Behavior Analysis](banner.png)
+
+
 This project involves analyzing customer shopping behavior using structured SQL queries. The dataset simulates a transactional database from an online retail store. The goal is to extract meaningful business insights from the shopping data.
 
 ---
